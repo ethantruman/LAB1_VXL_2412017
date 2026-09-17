@@ -1,4 +1,4 @@
-# Bài tập 2
+# Bài tập 6
 ## SOURCE CODE
 <p align="center">
   <img src="IMAGE_REPORT/SOURCE_CODE6.png" alt="Testing" width="80%" />
